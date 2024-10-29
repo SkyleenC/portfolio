@@ -3,5 +3,11 @@ background {
   color: #000000
 }
 #mainB {
-  
+  border: 5px solid #B8860B;
+  border-radius: 10px;
+  background-color: #8B008B;
+  margin-center: 25px;
+  padding: 5px;
+  color: #00FF7F;
+  font-family: courier;
 }
