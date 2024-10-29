@@ -14,9 +14,24 @@ body {
   float: center;
 }
 
-.links {
-  text-align: center;
+#AM {
   font-family: courier;
   color: #00FF7F;
-  
 }
+
+#Resume {
+  font-family: courier;
+  color: #00FF7F;
+}
+
+#CM {
+  font-family: courier;
+  color: #00FF7F;
+}
+
+#Projects {
+  font-family: courier;
+  color: #00FF7F;
+}
+
+
