@@ -10,35 +10,22 @@
   float: center;
 }
 
+.vertical-line {
+  width: 1px; /* Width of the line */
+  height: 20px; /* Height of the line */
+  background-color: #000; /* Color of the line color: #00FF7F */
+}
+
 #picCat{
 float:left;
   border: 3px solid #000000;
 }
 
-#AM {
-  font-family: courier;
-  color: #00FF7F;
+.links{
+  padding: 0 10px; /* Space around the text */
+  display: flex;
+  align-items: center;
 }
-
-#Resume {
-  font-family: courier;
-  color: #00FF7F;
-}
-
-#CM {
-  font-family: courier;
-  color: #00FF7F;
-}
-
-#Projects {
-  font-family: courier;
-  color: #00FF7F;
-}
-
-body {
-  background-color: 000000;
-}
-
 
 
 
