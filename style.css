@@ -1,8 +1,4 @@
 @charset "UTF-8";
-body {
-  background-color: 000000;
-}
-
 #mainB {
   border: 5px solid #0099ff;
   border-radius: 10px;
@@ -33,3 +29,14 @@ body {
   font-family: courier;
   color: #00FF7F;
 }
+
+body {
+  background-color: 000000;
+}
+
+
+
+
+
+
+
