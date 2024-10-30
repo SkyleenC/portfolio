@@ -5,15 +5,23 @@
   background-color: #cc99ff;
   margin-center: 25px;
   padding: 5px;
+  float: center;
+}
+
+.header{
+  position: absolute; /* Position text at the top center */
+  top: 10px;
+  left: 50%;
+  transform: translateX(-50%); /* Center the text horizontally */
+   font-weight: bold; /* Bold text for emphasis */
   color: #00FF7F;
   font-family: courier;
-  float: center;
 }
 
 .vertical-line {
   width: 1px; /* Width of the line */
   height: 20px; /* Height of the line */
-  background-color: #000; /* Color of the line color: #00FF7F */
+  background-color: #000; /* Color of the line */
 }
 
 #picCat{
@@ -25,6 +33,7 @@ float:left;
   padding: 0 10px; /* Space around the text */
   display: flex;
   align-items: center;
+  font-family: courier;
 }
 
 
