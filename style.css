@@ -8,7 +8,7 @@ body {
 
 .border {
     border: 5px solid gold;
-    background-color: purple;
+    background-color:  #8A2BE2;
     display: flex;
     align-items: center;
     padding: 20px;
@@ -27,7 +27,7 @@ h1 {
 }
 
 nav {
-    background-color: purple;
+    background-color:  #8A2BE2;
     padding: 10px 0;
 }
 
