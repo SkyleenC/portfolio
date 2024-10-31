@@ -1,41 +1,55 @@
-@charset "UTF-8";
-#mainB {
-  border: 5px solid #0099ff;
-  border-radius: 10px;
-  background-color: #cc99ff;
-  margin-center: 25px;
-  padding: 5px;
-  float: center;
+body {
+    background-color: black;
+    color: white;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
 }
 
-.header{
-  position: absolute; /* Position text at the top center */
-  top: 10px;
-  left: 50%;
-  transform: translateX(-50%); /* Center the text horizontally */
-   font-weight: bold; /* Bold text for emphasis */
-  color: #00FF7F;
-  font-family: courier;
+.border {
+    border: 5px solid gold;
+    background-color: purple;
+    display: flex;
+    align-items: center;
+    padding: 20px;
 }
 
-.vertical-line {
-  width: 1px; /* Width of the line */
-  height: 20px; /* Height of the line */
-  background-color: #000; /* Color of the line */
+.profile-image {
+    width: 50px; /* Adjust as needed */
+    height: 50px; /* Adjust as needed */
+    border-radius: 50%; /* Make it circular */
+    margin-right: 20px;
 }
 
-#picCat{
-float:left;
-  border: 3px solid #000000;
+h1 {
+    flex-grow: 1;
+    text-align: center;
 }
 
-.links{
-  padding: 0 10px; /* Space around the text */
-  display: flex;
-  align-items: center;
-  font-family: courier;
+nav {
+    background-color: purple;
+    padding: 10px 0;
 }
 
+nav ul {
+    list-style-type: none;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+}
+
+nav ul li {
+    margin: 0 15px;
+}
+
+nav ul li a {
+    color: white;
+    text-decoration: none;
+}
+
+nav ul li a:hover {
+    text-decoration: underline;
+}
 
 
 
