@@ -14,13 +14,6 @@ body {
     padding: 20px;
 }
 
-.profile-image {
-    width: 50px; /* Adjust as needed */
-    height: 50px; /* Adjust as needed */
-    border-radius: 50%; /* Make it circular */
-    margin-right: 20px;
-}
-
 h1 {
     flex-grow: 1;
     text-align: center;
