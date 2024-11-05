@@ -99,21 +99,21 @@ margin:0px 1em 1em 0px;
 }
 
 .gridL{
-  border:3px dashed #B88608;
+  border:3px solid #B88608;
   float:left;
   width:500px;
   height:200px;
 }
 
 .gridR{
-   border:3px dashed #B88608;
+   border:3px solid #B88608;
   float:rigth;
   width:500px;
   height:200px;
 }
 
 .gridCent{
-   border:3px dashed #B88608;
+   border:3px solid #B88608;
   float:center;
   width:500px;
   height:200px;
