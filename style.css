@@ -84,5 +84,19 @@ margin:0px 1em 1em 0px;
     padding: 0;
 }
 
+#imgGhost{
+  width:320px;
+  height:370px;
+  border:5px solid #B88608;
+  float:left;
+}
+
+#CM{
+  color: #BA55D3;
+    font-family: courier;
+    margin: 0;
+    padding: 0;
+}
+
 
 
