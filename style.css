@@ -95,7 +95,8 @@ margin:0px 1em 1em 0px;
   color: #BA55D3;
     font-family: courier;
     margin: 0;
-    padding: 10em;
+    padding-right: 10px;
+    padding-left: 10px;
 }
 
 .gridL{
